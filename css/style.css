@@ -1,0 +1,173 @@
+.logo{
+	width: 10%;
+	margin-top: 48px;
+	margin-left: 127px;
+}
+
+
+.menu{
+
+}
+
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+
+}
+nav{
+	float: right;
+	margin-top: -30px;
+	margin-right: 109px;
+}
+
+.log a img{
+	width: 100px;
+	max-height: 100%;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+	text-align: right;
+
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #727272;
+	font-size: 28px;
+	font-family: unset;
+	padding: 25px;
+	text-transform: uppercase;
+	font-variant-caps: unicase;
+	transition-duration: 0.5s;
+}
+
+nav ul li a:hover{
+	background: #FFE58F;
+	align-items: center;
+	padding: 5px;
+}
+
+.header{
+
+	margin-right: : 0px;
+	padding: 0;
+}
+
+.container{
+	text-align: center;
+    margin-top: 44px;
+    margin-left: 149px;
+}
+
+.container1{
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 200px;
+	padding-right: 200px;
+
+}
+
+.active{
+	padding-top: 72px;
+    text-transform: uppercase;
+    font-variant-caps: unicase;
+    font-family: monospace;
+    font-size: 23px;
+    color: #BDB5AA;
+}
+
+.active1{
+	padding-top: 10px;
+	text-transform: uppercase;
+    font-variant-caps: unicase;
+    font-family: monospace;
+    font-size: 23px;
+    color: #C8C1B7;
+}
+
+.nahid{
+	color: #6B6B6B;
+}
+
+.lorem{
+	color: #6B6B6B;
+	font-size: 18px;
+}
+
+.lorem1{
+	color: #6B6B6B;
+	font-size: 16px;
+}
+
+.lorem2{
+	color: #6B6B6B;
+    margin-right: -141px;
+    font-size: 16px;
+}
+.box{
+	text-align: left;
+	margin-left: 30px;
+	margin-right: 50px;
+	height: 400px;
+	width: 600px;
+
+}
+
+.content1{
+	text-align: left;
+	margin-left: 171px;
+	margin-right: auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	float: left;
+	width: 66%;
+	height: 100%;
+}
+
+.content2{
+	text-align: left;
+	float: right;
+	width: 50%;
+	height: 10px;
+	margin-right: -356px;
+}
+
+.same{
+	text-transform: uppercase;
+    font-variant-caps: unicase;
+    font-family: monospace;
+    font-size: 23px;
+    color: #BDB5AA;
+}
+
+.more{
+    color: #6B6B6B;
+    font-size: 30px;
+    width: 122%;
+}
+
+.footer{
+	background-color: #F0F0F0;
+	padding: 42px;
+	height: 10px;
+	width: 100%;
+	margin-top: 164px;
+	margin-bottom: 0px;
+}
+
+.menu1 a{
+	text-align: left;
+    padding: 16px;
+    font-size: 19px;
+    font-family: serif;
+    color: dodgerblue;
+    margin-right: 780px;
+    margin-top: 20px;
+}
+
+.menu2 a{
+
+}
